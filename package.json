@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "description": "Minimalist student developer portfolio",
-  "homepage": "https://<USERNAME>.github.io/<REPO_NAME>",
+  "homepage": "https://24039785.github.io/PD",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -111,16 +111,16 @@ function App() {
             collaborations. Reach out with any opportunity or question.
           </p>
           <div className="contact-list">
-            <a href="mailto:hello@example.com">hello@example.com</a>
+            <a href="mailto:24039785@myrp.edu.sg">24039785@myrp.edu.sg</a>
             <a
-              href="https://github.com/<USERNAME>"
+              href="https://github.com/24039785"
               target="_blank"
               rel="noreferrer"
             >
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/<USERNAME>"
+              href="https://www.linkedin.com/in/zheng-kai-ng-72a00a377/"
               target="_blank"
               rel="noreferrer"
             >
