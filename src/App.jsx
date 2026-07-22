@@ -27,19 +27,19 @@ const projects = [
 
 const certificates = [
   {
-    title: "Front-End Web Development",
-    issuer: "Online Bootcamp",
+    title: "JavaScript​: Web Form Programming",
+    issuer: "LinkedIn Learning",
     date: "2025",
   },
   {
-    title: "JavaScript Fundamentals",
-    issuer: "Certification Body",
-    date: "2024",
+    title: "Software Testing Foundations: Test Planning",
+    issuer: "LinkedIn Learning",
+    date: "2025",
   },
   {
-    title: "Responsive Design",
-    issuer: "Professional Course",
-    date: "2024",
+    title: "JavaScript​: Enhancing the DOM",
+    issuer: "LinkedIn Learning",
+    date: "2025",
   },
 ];
 
